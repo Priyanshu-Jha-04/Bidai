@@ -20,3 +20,6 @@ local.properties
 node_modules/
 /Screenshot*.png
 /Bid.ai
+
+# Firebase config (contains API keys)
+app/google-services.json
