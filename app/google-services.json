@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "794031857605",
+    "project_id": "bidai-e8512bf5",
+    "storage_bucket": "bidai-e8512bf5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794031857605:android:3c6df93a5aa72670cdb5ac",
+        "android_client_info": {
+          "package_name": "com.example.bidai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASUSBJh0z_nqsqI1T9K1PtEnmbLB8iNjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
